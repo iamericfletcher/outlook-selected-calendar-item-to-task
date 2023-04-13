@@ -29,7 +29,7 @@ Please note that compatibility with other Outlook clients and versions is not gu
 1. Open Microsoft Outlook.
 2. Press `ALT + F11` to open the VBA editor.
 3. Click on `Insert` > `Module` to create a new module.
-4. Copy and paste the provided VBA script into the module.
+4. Copy and paste the provided VBA script into the module (see below *Customication* section to additional details).
 5. Close the VBA editor.
 6. Select a calendar item in Outlook.
 7. Press `ALT + F8` to open the "Macro" dialog. Select the macro `CreateReschedulingTaskFromCalendarItem` and click "Run".
