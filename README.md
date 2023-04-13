@@ -11,6 +11,7 @@ This script has been developed and tested using the following Outlook client and
 
 - Outlook Client: Microsoft Office LTSC Professional Plus 2021 (Desktop)
 - Outlook Version: 2108
+- Operating System: Windows 10 Enterprise - 64-bit operating system, x64-based processor
 
 Please note that compatibility with other Outlook clients and versions is not guaranteed.
 
