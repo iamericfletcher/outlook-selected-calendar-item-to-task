@@ -47,8 +47,5 @@ Please note that compatibility with other Outlook clients and versions is not gu
 
 ## Note
 
-
-## Note
-
 - Please ensure that the target task folder is located in the default Tasks location in your Outlook folder structure. The script is designed to locate the folder in the Tasks location. If your task folder is located elsewhere, you might need to modify the script to accommodate the folder hierarchy.
 - The calendar items this script was developed for typically have only one person added to them. Please keep this in mind when using the script with calendar items that have multiple attendees. You may need to make additional modifications to accommodate different scenarios involving multiple attendees.
