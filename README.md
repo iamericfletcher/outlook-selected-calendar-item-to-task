@@ -1,4 +1,4 @@
-# mit-work-outlook-selected-calendar-item-to-task
+# outlook-selected-calendar-item-to-task
 This VBA script for Microsoft Outlook automates the process of creating a new task from a selected calendar item (note you only have to click the calendar item in calendar view, you do not need to actually open it). Specifically, I use this to automate a portion of my meeting rescheduling workflow. It greatly reduces the number of clicks thus saving me lots of time.
 
 # Outlook Calendar to Task Script
